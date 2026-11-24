@@ -14,7 +14,7 @@ jobs:
       # Slalom blue palette (#0C62FB) in place of the default greens.
       - uses: Platane/snk@v3
         with:
-          github_user_name: asif-jc
+          github_user_name: asif-jc-slalom
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%230C62FB&color_dots=%23ebedf0,%23c7dcff,%238db6ff,%234d8bff,%230C62FB
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%235AA0FF&color_dots=%23161b22,%230a2a7a,%230b46c2,%230C62FB,%235AA0FF
