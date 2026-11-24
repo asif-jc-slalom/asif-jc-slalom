@@ -23,19 +23,16 @@
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Role** | AI / ML Engineer at [Slalom](https://www.slalom.com/nz/en) New Zealand |
-| **Focus** | Machine learning, GenAI and RAG, data engineering |
-| **Studied** | MSc Computer Science · BE (Hons) Engineering Science, University of Auckland |
-| **Based** | Auckland, New Zealand |
+**AI / ML Engineer** at [Slalom](https://www.slalom.com/nz/en) New Zealand
+
+Machine learning · GenAI and RAG · Data engineering
+
+MSc Computer Science · BE (Hons) Engineering Science, University of Auckland
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0C62FB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0C62FB?style=flat-square&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0C62FB?style=flat-square)
-![GenAI](https://img.shields.io/badge/GenAI_%26_RAG-0C62FB?style=flat-square)
 
 </div>
 
